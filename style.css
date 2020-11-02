@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+#r1{
+    height: 200px;
+    border: 2px solid blue;
+}
+#r2{
+    height: 200px;
+    background-color: blue;
+}
+#r3{
+    height: 200px;
+    background-color:red;
+}
+#ukr1{
+    height: 200px;
+    background-color: blue;
+}
+#ukr2{
+    height: 200px;
+    background-color: yellow;
+}
+#ur1{
+    height: 200px;
+    background-color: rgb(0, 76, 255);
+}
+#ur2{
+    height: 200px;
+    background-color: honeydew;
+}
+#ur3{
+    height: 200px;
+    background-color: rgb(0, 76, 255);
+}
+
+
